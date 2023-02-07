@@ -1,5 +1,4 @@
-# Übung 6 JavaScript Teil 1: ECMAScript-Grundlagen
-HYP1UE_T1 Hypermedia 1 Webprogrammierung | 29.11.2022 | Wolfgang Hochleitner | Abgabe
+# Übung 1 JavaScript Teil 1: ECMAScript-Grundlagen
 
 Die erste Übung zum Thema JavaScript ist rein der Arbeit mit ECMAScript vorbehalten. Es sollen die Sprache kennengelernt, mit Variablen, Arrays und Funktionen gearbeitet und Konzepte wie die lose Typbindung erprobt werden.
 
